@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Akshay Gera 👋
 
 Welcome to my GitHub profile! I'm a **Business Intelligence Analyst** with 5+ years of experience. Below you’ll find the technologies I work with, projects I've built, and some fun facts about me.
 
