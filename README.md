@@ -19,12 +19,12 @@ Here are the tools and technologies I use to turn data into actionable insights 
   -**Looker Studio** <br>
   ![Looker Studio Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/320px-Looker.svg.png)
   
-- **Data Warehousing:**
+- **Data Warehousing: Snowflake | Google BigQuery**
   
-  - **Snowflake**
   <br> ![Snowflake Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/320px-Snowflake_Logo.svg.png)
+        ![Google BigQuery Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/320px-Google_Cloud_logo.svg.png)
 
-  - **Google BigQuery**
+  
   
 - **ETL & Automation:**
   - ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**
