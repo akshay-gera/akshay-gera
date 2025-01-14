@@ -15,6 +15,9 @@ Here are the tools and technologies I use to turn data into actionable insights 
 
   -  **Power BI** <br>
   ![Power BI Logo](https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg)
+
+  -**Looker Studio** <br>
+  ![Looker Studio Logo](https://www.insightplatforms.com/wp-content/uploads/2024/01/Google-Looker-Studio-Logo-Square-Insight-Platforms.jpeg)
   
 - **Data Modeling & Warehousing:**
   - ![DBT Logo]
