@@ -64,5 +64,5 @@ Check out some of my projects where I’ve leveraged these technologies:
 
 ### 📬 **Connect with Me:**
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/akshay-gera3103/)
+- [Email](mailto:akshay1604@gmail.com)
