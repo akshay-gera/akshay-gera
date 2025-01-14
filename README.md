@@ -20,12 +20,11 @@ Here are the tools and technologies I use to turn data into actionable insights 
 
   
   
-- **ETL & Automation:**
-  - ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**
-  - ![Postgres Logo](https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg) **Postgres SQL**
+- **Data Modelling: DBT**
+  - ![dbt Logo](https://upload.wikimedia.org/wikipedia/en/4/48/Data_build_tool_%28dbt%29_logo.svg)
   
-- **Version Control:**
-  - ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_logo.svg) **Git**
+- **Version Control & Collaboration: Git**
+  - ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_logo.svg) 
 
 ---
 
