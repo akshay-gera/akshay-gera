@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **Business Intelligence Analyst** with 5+ ye
 Here are the tools and technologies I use to turn data into actionable insights and drive business growth:
 
 - **Data Visualization:**
-  - ![Tableau Logo](https://upload.wikimedia.org/wikipedia/commons/4/47/Tableau_Logo.svg) **Tableau**
+  - ![Tableau Logo](https://en.wikipedia.org/wiki/Tableau_Software#/media/File:Tableau_logo.svg) **Tableau**
   - ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/Power_BI_Logo.svg) **Power BI**
   
 - **Data Modeling & Warehousing:**
