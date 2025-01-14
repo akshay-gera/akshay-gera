@@ -27,6 +27,8 @@ Here are the tools and technologies I use to turn data into actionable insights 
   <br>  ![Airflow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/320px-AirflowLogo.png)
         ![dagster-primary-vertical](https://github.com/user-attachments/assets/83702213-244e-4582-bb4e-4128fd150219)
 
+- **Ad-Hoc Analytics and Programming: Python** <br>
+  <br> ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 - **Data Visualization: Tableau | Power BI | Looker Studio** <br>
   <br> ![Tableau Logo](https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg) 
