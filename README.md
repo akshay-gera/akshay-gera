@@ -17,8 +17,7 @@ Here are the tools and technologies I use to turn data into actionable insights 
   ![Power BI Logo](https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg)
 
   -**Looker Studio** <br>
-  ![Looker Studio Logo](https://media.licdn.com/dms/image/v2/D5612AQG_qZMMQLO7-Q/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1676926985196?e=1742428800&v=beta&t=Ns-9uxn-zoGzhVvRRSx0XLip-56BhFe5SN8CgHpLgUc)
-  ![Looker Studio Logo](https://static.wikia.nocookie.net/logopedia/images/9/91/Looker_Studio.png/revision/latest?cb=20241001180544)
+  ![Looker Studio Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/320px-Looker.svg.png)
   
 - **Data Modeling & Warehousing:**
   - ![DBT Logo]
