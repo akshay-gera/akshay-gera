@@ -8,15 +8,13 @@ Welcome to my GitHub profile! I'm a **Business Intelligence Analyst** with 5+ ye
 
 Here are the tools and technologies I use to turn data into actionable insights and drive business growth:
 
-- **Data Visualization:**
-  - **Tableau**
-    <br>
+- **Data Visualization: Tableau | Power BI | Looker Studio**
+  <br>
+    
   ![Tableau Logo](https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg) 
 
-  -  **Power BI** <br>
   ![Power BI Logo](https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg)
 
-  -**Looker Studio** <br>
   ![Looker Studio Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/320px-Looker.svg.png)
   
 - **Data Warehousing: Snowflake | Google Cloud**
