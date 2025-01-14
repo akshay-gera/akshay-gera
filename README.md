@@ -46,14 +46,6 @@ Check out some of my projects where I’ve leveraged these technologies:
 
 ---
 
-### 📈 **Key Achievements**
-
-- **20%** improvement in decision-making efficiency across teams.
-- Developed **30+ interactive dashboards**, reducing analysis time by **30%**.
-- Reduced time-to-insight by **60%** through optimized data pipelines.
-
----
-
 ### 🤖 **Fun Facts About Me**:
 
 - I love automating manual processes and have saved hundreds of hours annually through Python scripts.
