@@ -20,8 +20,8 @@ Here are the tools and technologies I use to turn data into actionable insights 
 - **Data Modelling: DBT** <br>
   <br> ![dbt Logo](https://upload.wikimedia.org/wikipedia/en/4/48/Data_build_tool_%28dbt%29_logo.svg)
   
-- **Version Control & Collaboration: Git**
-  <br> ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ei-sc-github.svg/240px-Ei-sc-github.svg.png)
+- **Version Control & Collaboration: Git**<br>
+   ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ei-sc-github.svg/240px-Ei-sc-github.svg.png)
 
 - **Data Orchestration: Apache Airflow | Dagster** <br>
   <br>  ![Airflow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/320px-AirflowLogo.png)
@@ -40,9 +40,9 @@ Here are the tools and technologies I use to turn data into actionable insights 
 
 Check out some of my projects where I’ve leveraged these technologies:
 
-- [Project 1: Interactive Dashboard](link-to-project)
-- [Project 2: Data Pipeline Automation](link-to-project)
-- [Project 3: A/B Testing and Analysis](link-to-project)
+- [Project 1: End-to-End Data Pipeline using GCP, dbt, Dagster & Power BI](https://github.com/akshay-gera/dbt_bigquery_project)
+- [Project 2: Dashboarding on Tableau](https://github.com/akshay-gera/Tableau-Bank-Marketing-Visualization)
+- [Project 3: Complex Data Transformation and Analytics using GCP, dbt](https://github.com/akshay-gera/radius-reduction-analytics-with-dbt-bigquery)
 
 ---
 
