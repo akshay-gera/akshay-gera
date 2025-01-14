@@ -13,7 +13,7 @@ Here are the tools and technologies I use to turn data into actionable insights 
     <br>
   ![Tableau Logo](https://upload.wikimedia.org/wikipedia/en/0/06/Tableau_logo.svg) 
 
-  -  **Power BI**
+  -  **Power BI** <br>
   ![Power BI Logo](https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg)
   
 - **Data Modeling & Warehousing:**
