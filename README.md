@@ -40,8 +40,9 @@ Here are the tools and technologies I use to turn data into actionable insights 
 
 Check out some of my projects where I’ve leveraged these technologies:
 
+
+- [Project 1: Data Engineering Project APIs,Python, Airflow, BigQuery](https://github.com/akshay-gera/End-to-End-Data-Pipeline)
 - [Project 1: End-to-End Data Pipeline using GCP, dbt, Dagster & Power BI](https://github.com/akshay-gera/dbt_bigquery_project)
-- [Project 2: Dashboarding on Tableau](https://github.com/akshay-gera/Tableau-Bank-Marketing-Visualization)
 - [Project 3: Complex Data Transformation and Analytics using GCP, dbt](https://github.com/akshay-gera/radius-reduction-analytics-with-dbt-bigquery)
 
 ---
